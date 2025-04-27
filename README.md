@@ -22,7 +22,7 @@ Interactive Server Support:
 
 Welcomes new users and servers with onboarding messages.
 
-Handles user-specific sessions for bus stop selections, ensuring personalized and intuitive interactions.
+Handles user-specific sessions for bus stop selections, ensuring personalised and intuitive interactions.
 
 Technologies Used:
 
